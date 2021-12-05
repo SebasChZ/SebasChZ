@@ -1,4 +1,4 @@
-👋 Hi, I’m Sebastian, a full-time Computer Engineering Student at Instituto Tecnológico de Costa Rica(TEC). Currently on my 2nd semester.
+👋 Hi, I’m Sebastian, a full-time Computer Engineering Student at Instituto Tecnológico de Costa Rica(TEC). Currently in my 2nd semester.
 I am a tech enthusiast. I love reading and learning about the latest in software, hardware, and advancements in the industry.
 
 
