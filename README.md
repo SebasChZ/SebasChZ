@@ -8,6 +8,12 @@ I am a tech enthusiast. I love reading and learning about the latest in software
 - 📫 How to reach me: sebas04chaves@gmail.com / +506 61456812
 - ⚡️ Fun fact: The day has 86,400 seconds and with just one you can make someone else's better
 
+## Skills Python/Java/C++/SQL :
+-Object Oriented Programming
+-Data Structures
+-Algorithms 
+-Data Bases
+
 ### Languages and Tools:
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
